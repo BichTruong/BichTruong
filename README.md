@@ -11,7 +11,7 @@
 <body>
   <header>
     <div>
-      <img src="./img/avatar.jpg" />
+      <img src="https://github.com/BichTruong/BichTruong/blob/main/squirtle-hat.gif" />
     </div>
   </header>
   <main>      
