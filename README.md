@@ -1,16 +1,4 @@
-<html>
-<head>
-  <meta charset="UTF-8">
-  <meta name="description" content="Fullstack Developper">
-  <meta name="author" content="Bich TRUONG">
-  <link rel="icon" href="./img/favicon.ico">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="style.css">
-</head>
 
-<body>
-  <header>
-    <div>
       <img src="https://github.com/BichTruong/BichTruong/blob/main/squirtle-hat.gif" />
     </div>
   </header>
@@ -45,5 +33,4 @@
   <footer>
     <p>Created by Bich TRUONG - 2022 </p>
   </footer>
-</body>
-</html>
+
